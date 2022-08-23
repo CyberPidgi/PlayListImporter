@@ -4,8 +4,8 @@ from Song import Song
 from typing import List
 
 scope = 'user-library-read'
-CLIENT_ID = "4abb2bb4108e4bfeb9eb55f46deb4af3"
-CLIENT_SECRET = "60a881d9384b46b5a3ea7a4bf42f2cf6"
+CLIENT_ID = "CLIENT_ID"
+CLIENT_SECRET = "CLIENT_SECRET"
 REDIRECT_URI = 'https://example.com/callback'
 
 
